@@ -80,7 +80,7 @@ python3 main.py
 
 ## Implementation for Multiple AWS Accounts
 
-If you want to use this script for managing IAM keys across multiple AWS accounts, you can add this [module](https://github.com/alonshrestha/aws-sts-multiple-cross-account-access-boto3).
+If you want to use this script for managing IAM keys across multiple AWS accounts, you can integrate this [module](https://github.com/alonshrestha/aws-sts-multiple-cross-account-access-boto3).
 
 ## License
 - This project is licensed under the MIT License - see the [LICENSE](/LICENSE) file for details.
